@@ -8,7 +8,7 @@
 % Modificado por Julio Cesar Santos Nascimento
 % Data: 26/06/2014  08:00 as 11:00
 % add this line
-% ok no problem
+% ok
 
 clear;
 n = 501;         %Number of grid points
